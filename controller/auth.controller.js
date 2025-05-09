@@ -47,7 +47,7 @@ const rePassBussiness = async(req, res = response) => {
         const html = `<div style="box-sizing:border-box;margin:0;font-family: Montserrat,-apple-system,BlinkMacSystemFont;font-size:1rem;font-weight:400;line-height:1.5;text-align:left;background-color:#fff;color:#333">
                 <div class="adM">
                     <center>
-                        <img src="https://grupofortalezasas.com/assets/img/logo/logo.webp" style="max-width: 250px;">
+                        <img src="https://grupofortalezatemp.com/assets/img/logo/logo.webp" style="max-width: 250px;">
                     </center>
                 </div>
                 <div style="box-sizing:border-box;width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto;max-width:620px">
@@ -74,10 +74,10 @@ const rePassBussiness = async(req, res = response) => {
                                 </div>
                             </div>
                             <p style="box-sizing:border-box;margin-top:0;margin-bottom:1rem">Tu nueva contraseña es: ${result}</p>
-                            <a href="https://grupofortalezasas.com/portal/empresas" style="box-sizing:border-box;text-decoration:none;display:inline-block;font-weight:400;text-align:center;white-space:nowrap;vertical-align:middle;border:1px solid transparent;color:#fff;line-height:1.5;margin:10px;border-radius:30px;background-color:#009BE0;border-color:#009BE0;font-size:0.95rem;padding:15px 20px"
+                            <a href="https://grupofortalezatemp.com/portal/empresas" style="box-sizing:border-box;text-decoration:none;display:inline-block;font-weight:400;text-align:center;white-space:nowrap;vertical-align:middle;border:1px solid transparent;color:#fff;line-height:1.5;margin:10px;border-radius:30px;background-color:#009BE0;border-color:#009BE0;font-size:0.95rem;padding:15px 20px"
                                 target="_blank">Inciar sesion ahora</a>
                             <p style="box-sizing:border-box;margin-top:0;margin-bottom:1rem">tambien puedes copiar este enlace en tu URL</p>
-                            <p> https://grupofortalezasas.com/portal/empresas</p>
+                            <p> https://grupofortalezatemp.com/portal/empresas</p>
                         </div>
                     </div>
                     <div style="box-sizing:border-box;display:-webkit-box;display:-ms-flexbox;display:flex">
@@ -145,7 +145,7 @@ const rePass = async(req, res = response) => {
         const html = `<div style="box-sizing:border-box;margin:0;font-family: Montserrat,-apple-system,BlinkMacSystemFont;font-size:1rem;font-weight:400;line-height:1.5;text-align:left;background-color:#fff;color:#333">
                 <div class="adM">
                     <center>
-                        <img src="https://grupofortalezasas.com/assets/img/logo/logo.webp" style="max-width: 250px;">
+                        <img src="https://grupofortalezatemp.com/assets/img/logo/logo.webp" style="max-width: 250px;">
                     </center>
                 </div>
                 <div style="box-sizing:border-box;width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto;max-width:620px">
@@ -172,10 +172,10 @@ const rePass = async(req, res = response) => {
                                 </div>
                             </div>
                             <p style="box-sizing:border-box;margin-top:0;margin-bottom:1rem">Tu nueva contraseña es: ${result}</p>
-                            <a href="https://grupofortalezasas.com/portal/trabajadores" style="box-sizing:border-box;text-decoration:none;display:inline-block;font-weight:400;text-align:center;white-space:nowrap;vertical-align:middle;border:1px solid transparent;color:#fff;line-height:1.5;margin:10px;border-radius:30px;background-color:#009BE0;border-color:#009BE0;font-size:0.95rem;padding:15px 20px"
+                            <a href="https://grupofortalezatemp.com/portal/trabajadores" style="box-sizing:border-box;text-decoration:none;display:inline-block;font-weight:400;text-align:center;white-space:nowrap;vertical-align:middle;border:1px solid transparent;color:#fff;line-height:1.5;margin:10px;border-radius:30px;background-color:#009BE0;border-color:#009BE0;font-size:0.95rem;padding:15px 20px"
                                 target="_blank">Inciar sesion ahora</a>
                             <p style="box-sizing:border-box;margin-top:0;margin-bottom:1rem">tambien puedes copiar este enlace en tu URL</p>
-                            <p> https://grupofortalezasas.com/portal/trabajadores</p>
+                            <p> https://grupofortalezatemp.com/portal/trabajadores</p>
                         </div>
                     </div>
                     <div style="box-sizing:border-box;display:-webkit-box;display:-ms-flexbox;display:flex">
