@@ -21,13 +21,13 @@ const sendMail = async(email, subject, html, msg) => {
             port: 465,
             secure: true, // use TLS
             auth: {
-                user: "auxgestionhumana@grupofortalezasas.com",
-                pass: "Fortalezasas2022*",
+                user: "info@grupofortalezatemp.com",
+                pass: "Lhumberto0919*",
             },
         });
 
         const mailOptions = {
-            from: '"Grupo Fortaleza" <auxgestionhumana@grupofortalezasas.com>', // sender address (who sends)
+            from: '"Grupo Fortaleza" <info@grupofortalezatemp.com>', // sender address (who sends)
             to: email, // list of receivers (who receives)
             subject, // Subject line
             html,
