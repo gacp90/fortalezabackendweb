@@ -22,7 +22,7 @@ const sendMail = async(email, subject, html, msg) => {
             secure: true, // use TLS
             auth: {
                 user: "info@grupofortalezatemp.com",
-                pass: "Lhumberto0919*",
+                pass: "Lhumberto0919",
             },
         });
 
